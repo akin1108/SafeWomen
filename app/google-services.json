@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "222198690430",
+    "firebase_url": "https://wregisterlogin.firebaseio.com",
+    "project_id": "wregisterlogin",
+    "storage_bucket": "wregisterlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222198690430:android:6a1519902b6824c41b1e2f",
+        "android_client_info": {
+          "package_name": "com.example.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222198690430-9unqojltck2makaoulpg418mo20as2fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginregister",
+            "certificate_hash": "dbb06c9ae585ee56744eb972d89eab6b124dbf37"
+          }
+        },
+        {
+          "client_id": "222198690430-5srffdu5bkk0termh0v2if7j4n1qlhlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM0ufC2cMvnDBdhUjwf3tHGMBwz56HBEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222198690430-5srffdu5bkk0termh0v2if7j4n1qlhlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
